@@ -10,6 +10,7 @@ Veri Gizliliği: Verileriniz sunuculara yüklenmez, tüm işlemler tarayıcını
 Gece/Gündüz Modu: İsteğe bağlı olarak arayüzü gece veya gündüz modunda kullanabilirsiniz.
 Veri Dışa Aktarma: Sonuçları .txt dosyası olarak dışa aktarabilirsiniz.
 Sıfırlama: Tüm verileri ve sonuçları tek tıklamayla sıfırlayabilirsiniz.
+
 Nasıl Kullanılır?
 
 Instagram Verilerinizi İndirin:
@@ -19,24 +20,7 @@ Instagram hesabınıza giriş yapın.
 "Veri İndirme" kısmından "Bilgi İndirme" talebinde bulunun.
 İndirme talebiniz onaylandıktan sonra, "Takip Ettikleriniz" ve "Takipçileriniz" verilerinizi içeren HTML dosyalarını indirin.
 Araca Verilerinizi Yükleyin:
-Aracı tarayıcınızda açın.
-"INSTAGRAM VERİLERİNİ EKLE" bölümündeki dosya yükleme alanlarına, indirdiğiniz following.html (Takip Ettiklerim) ve followers_1.html (Beni Takip Edenler) dosyalarını yükleyin.
-Analizi Başlatın:
-"Beni Takip Etmeyenleri Bul" butonuna tıklayın.
-Araç, dosyalarınızı analiz ederek sizi takip etmeyen kullanıcıların bir listesini oluşturacaktır.
-Sonuçları İnceleyin:
-"BENİ TAKİP ETMEYENLER" bölümünde, sizi takip etmeyen kullanıcıların Instagram kullanıcı adlarını ve profillerine yönlendiren bağlantıları görebilirsiniz.
-Ek Özellikleri Kullanın:
-"Gece/Gündüz Modu" butonu ile arayüzün temasını değiştirebilirsiniz.
-"Verileri Dışa Aktar" butonu ile sonuçları .txt dosyası olarak indirebilirsiniz.
-"Sıfırla" butonu ile tüm verileri temizleyebilirsiniz.
-Güvenlik ve Gizlilik
-
-Bu araç, kullanıcı gizliliğine büyük önem verir. Yüklediğiniz dosyalar herhangi bir sunucuya gönderilmez veya kaydedilmez. Tüm analiz işlemleri doğrudan tarayıcınız üzerinde gerçekleştirilir, bu sayede verilerinizin güvenliği sağlanmış olur.
-
-Geliştirici
-
-Bu kullanışlı araç, sosyal medya analizine ilgi duyan ve kullanıcıların işini kolaylaştırmayı hedefleyen Cenk KARAKOL tarafından geliştirilmiştir.
+laştırmayı hedefleyen Cenk KARAKOL tarafından geliştirilmiştir.
 
 Sonuç
 
